@@ -1,2 +1,4 @@
 guru : keypad...
 madhu : battery
+
+talking obout user avatar
